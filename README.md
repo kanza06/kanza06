@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Muhammad Amin 👋 - @kanza06
 
-<!--
-**kanza06/kanza06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Developer dari Mandah, Riau | Suka bikin aplikasi ringan & tools AI offline
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyek Unggulan
+- **Background Remover HD** - Hapus background dengan seleksi rambut rapi (BiRefNet)
+- **Aplikasi Kasir / Absensi** - (ganti dengan aplikasi kamu)
+- **Pas Foto Ganti Jas** - Tools ganti jas otomatis
+
+### 🛠️ Tech Stack
+`Python` `PHP` `JavaScript` `Python - AI` `Git`
+
+### 📊 GitHub Stats
+Sedang membangun portfolio...
+
+### 📫 Hubungi Saya
+- Lokasi: jambi, Indonesia
+- Fokus: Aplikasi Offline, No API Key
+
+---
+✨ _Repo ini auto muncul di profil atas_
